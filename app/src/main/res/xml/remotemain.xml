@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>font</key>
+        <value>bisa</value>
+    </entry>
+    <entry>
+        <key>size</key>
+        <value>0</value>
+    </entry>
+</defaultsMap>
+    <!-- END xml_defaults -->
